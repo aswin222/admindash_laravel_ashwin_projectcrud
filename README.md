@@ -5,21 +5,21 @@ dashboard template link ->   https://preview.themeforest.net/item/spruha-html-da
 //forinstallationn
 
 clone repository >> git clone replink
-//
-rename env.example to .env
-edit db name port server in .env
-run >
-composer install
+<p>
+rename env.example to .env<p>
+edit db name, port ,server in .env<p>
+run ><p>
+composer install<p>
 php artisan key:generate<p>
-php artisan migrate --seed
-php artisan serve 
+php artisan migrate --seed<p>
+php artisan serve <p>
+
+<p>
+admin credentials<p>
+
+email : superadmin@site.com<p>
+pass : 1234567890<p>
 
 
-admin credentials
-
-email : superadmin@site.com
-pass : 1234567890
-
-
-admin can view dashboard and crud projects 
+admin can view dashboard and crud projects <p>
 users regstrd through user reg can access only the dash
