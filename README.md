@@ -10,7 +10,7 @@ rename env.example to .env
 edit db name port server in .env
 run >
 composer install
-php artisan key:generate
+php artisan key:generate<p>
 php artisan migrate --seed
 php artisan serve 
 
