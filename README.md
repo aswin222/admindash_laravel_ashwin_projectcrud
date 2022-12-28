@@ -5,6 +5,7 @@ dashboard template link ->   https://preview.themeforest.net/item/spruha-html-da
 //forinstallationn
 
 clone repository >> git clone replink
+//
 rename env.example to .env
 edit db name port server in .env
 run >
