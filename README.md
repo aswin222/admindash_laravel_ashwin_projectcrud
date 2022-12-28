@@ -16,8 +16,8 @@ php artisan serve
 
 admin credentials
 
-email : admin@ash.com
-pass : 11111111
+email : superadmin@site.com
+pass : 1234567890
 
 
 admin can view dashboard and crud projects 
